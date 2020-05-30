@@ -1,0 +1,3 @@
+convnet文件夹存放代码
+input文件夹存放数据集
+output文件夹存放模型
